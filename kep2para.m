@@ -90,10 +90,7 @@ function varargout = kep2para(varargin)
 % Authors
 % .·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.
 % Name       : Rody P.S. Oldenhuis
-% E-mail     : oldenhuis@dds.nl / oldenhuis@gmail.com
-% Affiliation: Delft University of Technology
-
-% Last edited 14/Nov/2009
+% E-mail     : oldenhuis@gmail.com
 
     % default errortrap 
     narg = nargin;
